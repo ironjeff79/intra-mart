@@ -4,7 +4,7 @@
  ![新建词典项目](pictures/e9247864cc1d28bff2fa6be0c82536d.png)  
 
 2. 新建项目 --> 勾选用途中的数据和限制 --> 词典项目ID和项目名中输入userCd --> 数据 类型模板中选择TEXT  
- ![新建项目](pictures/ 6d9d691191141967c681985c0f183af.png)  
+ ![新建项目](pictures/6d9d691191141967c681985c0f183af.png)  
 
 3. 变量名全部改为userCd
  ![变量名](pictures/b058ac26b93517f703ef246b4f72855.png)  
